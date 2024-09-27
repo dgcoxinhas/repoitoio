@@ -16,5 +16,9 @@ let media = function(valor1, valor2, valor3){
 
 console .log(media(1,2,3));
 
-let media2=parseInt(prompt('qual sao as ua notas?'));
-document .write(media2);
+let nota=parseInt(prompt('qual e a sua nota?'))
+let nota=parseInt(prompt('qual e a sua nota?'))
+let nota=parseInt(prompt('qual e a sua nota?'))
+let media = function(valor1, valor2, valor3){
+    return (valor1+valor2+valor3)/3;}
+    document.write(media(notas1, nota2, notas3))
