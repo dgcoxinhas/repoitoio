@@ -11,7 +11,7 @@ function areaQuadrado(ladoBase){
 console .log(areaQuadrado(8));
 
 let media = function(valor1, valor2, valor3){
-    return valor1+valor2+valor3/3;
+    return (valor1+valor2+valor3)/3;
 }
 
-console .log(media(1,2,3) );
+console .log(media(1,2,3));
